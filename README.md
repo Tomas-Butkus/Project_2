@@ -1,5 +1,5 @@
 Overview:
-Arcade Style Survival is a fast-paced game where the player has to dodge traps and shot projectiles to survive as long as possible. The game objective is to stay alive as long as possible by avoiding obstacles and collecting medicine pills that heal all health. The longer the game goes on, the harder it becomes as more traps spawn, making it challenging for the player to survive.
+This game was developed for a gamejam. This Arcade Style Survival game is a fast-paced where the player has to dodge traps and shot projectiles to survive as long as possible. The game objective is to stay alive as long as possible by avoiding obstacles and collecting medicine pills that heal all health. The longer the game goes on, the harder it becomes as more traps spawn, making it challenging for the player to survive.
 
 Features:
 - The game is built using an arcade style that provides a fun and engaging user experience.
